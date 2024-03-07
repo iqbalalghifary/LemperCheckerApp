@@ -3,7 +3,7 @@ is a web-based application designed to check the approval page on the JTK Polban
 
 # Demonstrasi
 1. Home Page
-   ![img95](https://github.com/iqbalalghifary/LemperCheckerApp/assets/51478039/41d30ae9-e178-4e5f-b094-d4290f3e1c9e)
+   ![img153](https://github.com/iqbalalghifary/LemperCheckerApp/assets/51478039/333d6e58-1221-45ff-b3f8-a5575306afa8)
 2. Registration Page
    ![img157](https://github.com/iqbalalghifary/LemperCheckerApp/assets/51478039/87b1e5d0-c976-400a-a687-2d3b3d27b64d)
 3. Login Page
